@@ -1,6 +1,6 @@
 👋 Hi, I'm Binisha!
 
-🎓Recently graduated from high school and passionate about technology.<br/>
-💻Aspiring Computer Science major, excited to explore coding!<br/>
-🌱Currently learning and always eager to expand my skills.<br/>
+🎓Pursuing a Bachelor's degree in Computer Science at Temple University Japan Campus.<br/>
+💻Building skills in programming and problem solving.<br/>
+🌱Interested in artificial intelligence, machine learning and technology trends.<br/>
 
